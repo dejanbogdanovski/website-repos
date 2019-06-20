@@ -4,10 +4,7 @@
 2. Install Docker.
 3. Download the docker-compose.yml file and code folder from this github repository.
 4. Create a folder and place the docker-compose.yml file in that folder.
-5. Open Command Prompt and go inside the folder with the docker-compose.yml file and after that run the following command: docker-compose up -d
-
-
-Open Command Prompt and go inside the folder with the docker-compose.yml file and after that run the following command:
+5. Open Command Prompt and go inside the folder with the docker-compose.yml file and after that run the following command:
 ```
 docker-compose up -d
 ```
@@ -27,9 +24,3 @@ docker-compose up -d
 18. bin/magento setup:upgrade
 19. bin/magento setup:di:compile
 20. Open the following link in your web browser: http://localhost/dejan/index/index/
-
-
-Some basic Git commands are:
-```
-docker-compose up -d
-```
