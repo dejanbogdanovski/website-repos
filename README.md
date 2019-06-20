@@ -2,9 +2,9 @@
 
 *This is a website project that has certain goal.*
 
-First list item
-    - First nested list item
-    - Second nested list item
+- George Washington
+- John Adams
+- Thomas Jefferson
 
 These are the basic things that you need to do
     1.Download Docker from the [official website](https://www.docker.com) and after that install the docker.
