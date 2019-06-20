@@ -8,7 +8,7 @@ These are the basic things that you need to do:
 
 ## How to setup: 
 1.Create a folder and place the docker-compose.yml file in that folder.
-2.Open Command Prompt and go inside the folder with the docker-compose.yml file, then run the command bellow. After that open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.:
+2.Open Command Prompt and go inside the folder with the docker-compose.yml file, then run the command bellow :point_down:. After that open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.:
 ```
 docker-compose up -d
 ```
