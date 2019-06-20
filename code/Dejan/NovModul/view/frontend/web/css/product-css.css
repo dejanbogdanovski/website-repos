@@ -1,0 +1,132 @@
+.featured-products{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #212121;
+	width: 100%;
+	margin: 0px;
+}
+.featured-product-inside{
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+.featured-color-white{
+	width: 40%;
+	display: block;
+	color: white;
+	margin: auto;
+	margin-top: 5%;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 35px;
+}
+.featured-horizontal-line {
+	display: block;
+	width: 11%;
+	height: 5px;
+	background-color: #9C1D28;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 3%;
+
+}
+.products {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #212121;
+	width: 100%;
+	margin: 0px;
+	padding-bottom: 7%;
+}
+.inside-products{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background-color: #212121;
+	width: 100%;
+	margin: 0px;
+}
+.first-product{
+	background-image: url('Dejan_NovModul::images/product-first-image.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 250px;
+	height: 372px;
+	background-size: cover;
+	text-align: center;
+}
+.second-product{
+	background-image: url('Dejan_NovModul::images/product-second-image.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 250px;
+	height: 372px;
+	background-size: cover;
+	text-align: center;
+}
+.third-product{
+	background-image: url('Dejan_NovModul::images/product-third-image.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 250px;
+	height: 372px;
+	background-size: cover;
+	text-align: center;
+}
+.forth-product{
+	background-image: url('Dejan_NovModul::images/product-forth-image.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 250px;
+	height: 372px;
+	background-size: cover;
+	text-align: center;
+}
+.fifth-product{
+	background-image: url('Dejan_NovModul::images/product-fifth-image.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 250px;
+	height: 372px;
+	background-size: cover;
+	text-align: center;
+}
+.product-text-red{
+	font-weight:bold;
+	font-size: 19px;
+	color: red;
+	margin-top: 100%;
+	margin-bottom: 3%;
+	text-align: center;
+}
+.product-text-white{
+	font-weight:bold;
+	font-size: 23px;
+	color: white;
+	margin-top: 2%;
+	text-align: center;
+	display: block;
+}
+.fa-icons-margin-bottom{
+	margin-bottom: 3%
+}
+.products-margin{
+	margin: 10px;
+}
+.product-fa-icons{
+	display: inline-block;
+	text-align: center;
+}
+.fa-star{
+	color: #FF3448;
+	font-size: 14px;
+}
+.fa-star-half-alt{
+	color: #FF3448;
+}

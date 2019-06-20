@@ -1,0 +1,28 @@
+.navigation-menu-whole {
+	background-color: #030303;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+}
+.navigation-menu { 
+	display: flex;
+	height: 50px;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	background-color: #030303;
+}
+.nav-menu-part-home {
+	margin-left: 15.5%;
+	margin-right: 1.45%;
+}
+.nav-menu-part{
+	margin-left: 1.45%;
+	margin-right: 1.45%;
+}
+.text-color-nav-white{
+	color: white
+}
+.nm-part-margin-top {
+	margin-top: 10px;
+}

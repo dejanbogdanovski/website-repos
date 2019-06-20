@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<page layout="empty" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+      <head>
+      	<link src="https://fonts.googleapis.com/css?family=Lato" src_type="url" rel="stylesheet" type="text/css" />
+		<css src="Dejan_NovModul::css/dejanStyle.css"/>
+		<css src="Dejan_NovModul::css/bootstrap.css"/>
+		<css src="Dejan_NovModul::css/all.css"/>
+		<script src="Dejan_NovModul::js/dejanJs.js"/>
+	</head>
+    <body>
+        <referenceContainer name="content">
+            <block class="Magento\Framework\View\Element\Template" name="dejan_index_index"
+                   template="Dejan_NovModul::template_new_page.phtml" />
+        </referenceContainer>
+        <referenceContainer name="main.content" htmlTag="main" htmlClass="page-main-full-width" />
+        <referenceContainer name="header.panel" remove="true"/>
+        <referenceContainer name="header.container" remove="true"/>
+        <referenceBlock name="navigation.sections" display="false" />
+        <referenceBlock name="copyright" remove="true"/>
+
+      
+    </body>
+</page>

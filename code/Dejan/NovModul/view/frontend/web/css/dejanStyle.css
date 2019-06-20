@@ -1,0 +1,13 @@
+@import url("Dejan_NovModul::css/header-css.css");
+@import url("Dejan_NovModul::css/navigation-menu-css.css");
+@import url("Dejan_NovModul::css/content-css.css");
+@import url("Dejan_NovModul::css/product-css.css");
+@import url("Dejan_NovModul::css/quick-links-css.css");
+@import url("Dejan_NovModul::css/footer-css.css");
+@import url("Dejan_NovModul::css/css-max-width-480px.css") screen and (max-width: 480px);
+@import url("Dejan_NovModul::css/css-max-width-768px.css") screen and (max-width: 768px);
+@import url("Dejan_NovModul::css/css-max-width-928px.css") screen and (max-width: 928px);
+@import url("Dejan_NovModul::css/media-screen.css") screen and (min-width: 929px) and (max-width: 1200px) ;
+* {
+	font-family: 'Lato', sans-serif;
+}
