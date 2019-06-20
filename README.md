@@ -7,8 +7,6 @@
 ```
 docker-compose up -d
 ```
-Open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.
-
 6. Place the code folder in your container with this command: 
 ```
 docker cp code <container name bitnami>:/opt/bitnami/magento/htdocs/app
