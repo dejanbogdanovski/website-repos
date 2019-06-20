@@ -2,7 +2,7 @@
 
 *This is a website project that has certain goal.*
 
-These are the basic things that you need to do
+These are the basic things that you need to do:
 - Download Docker from the [official website](https://www.docker.com) and after that install the docker.
 - Download the docker-compose.yml file and code folder from this github repository.
 
