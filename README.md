@@ -2,8 +2,10 @@
 
 1. Download Docker from the [official website](https://www.docker.com) and after that install the docker.
 3. Download the docker-compose.yml file and code folder from this github repository.
+
+## How to setup: 
 4. Create a folder and place the docker-compose.yml file in that folder.
-5. Open Command Prompt and go inside the folder with the docker-compose.yml file and after that open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.:
+5. Open Command Prompt and go inside the folder with the docker-compose.yml file, then run the command bellow. After that open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.:
 ```
 docker-compose up -d
 ```
