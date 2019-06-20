@@ -1,6 +1,6 @@
 # CarStore Project
 
-1. Download Docker from the official website https://www.docker.com
+1. Download Docker from the[official website](https://www.docker.com)
 2. Install Docker.
 3. Download the docker-compose.yml file and code folder from this github repository.
 4. Create a folder and place the docker-compose.yml file in that folder.
