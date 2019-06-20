@@ -10,7 +10,7 @@ These are the basic things that you need to do
 - [x] Download Docker from the [official website](https://www.docker.com) and after that install the docker.
 - [x] Download the docker-compose.yml file and code folder from this github repository.
 
-1. First list item
+1.First list item
     - Download Docker from the [official website](https://www.docker.com) and after that install the docker.
     - Download the docker-compose.yml file and code folder from this github repository.
 
