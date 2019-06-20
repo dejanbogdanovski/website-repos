@@ -2,7 +2,7 @@
 
 *This is a website project that has certain goal.*
 
-1.First list item
+First list item
     - First nested list item
     - Second nested list item
 
