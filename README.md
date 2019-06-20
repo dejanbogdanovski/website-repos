@@ -8,6 +8,8 @@
 ```
 docker-compose up -d
 ```
+**Open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.**
+
 6. Place the code folder in your container with this command: 
 ```
 docker cp code <container name bitnami>:/opt/bitnami/magento/htdocs/app
@@ -31,6 +33,7 @@ bin/magento module:enable Dejan_NovModul
 bin/magento setup:upgrade
 bin/magento setup:di:compile
 ```
+11. **Open [this link](http://localhost/dejan/index/index/) to view the result.**
 
 6. Open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.
 7. Run the following command in Command Prompt to get the id of the containers: docker ps
