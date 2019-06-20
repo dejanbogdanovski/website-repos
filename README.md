@@ -2,9 +2,14 @@
 
 *This is a website project that has certain goal.*
 
+1. First list item
+    - First nested list item
+    - Second nested list item
+
 These are the basic things that you need to do
     1.Download Docker from the [official website](https://www.docker.com) and after that install the docker.
     2.Download the docker-compose.yml file and code folder from this github repository.
+    
 
 ## How to setup: 
 1.Create a folder and place the docker-compose.yml file in that folder.
