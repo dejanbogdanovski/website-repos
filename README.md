@@ -15,27 +15,30 @@ docker-compose up -d
 ```
 docker cp code <container name bitnami>:/opt/bitnami/magento/htdocs/app
 ```
-3.Enter in your cointainer. First, you have to get the name of the container: 
+3.Get the name of container:
 ```
 docker ps
+```
+4.This command will enable you to execute commands inside the container.
+```
 docker exec -it <container name bitnami> bas
 ```
-4.Go inside the /htdocs/ folder:
+5.Go inside the /htdocs/ folder:
 ```
 cd /opt/bitnami/magento/htdocs/
 ```
-5.Unlink /app/etc:
+6.Unlink /app/etc:
 ```
 unlink ./app/etc
 cp -r /bitnami/magento/htdocs/app/etc app/etc
 ```
-6.Enable the module
+7.Enable the module
 ```
 bin/magento module:enable Dejan_NovModul
 bin/magento setup:upgrade
 bin/magento setup:di:compile
 ```
-7.After the completion of the steps above, open the link bellow to see the result.
+8.After the completion of the steps above, open the link bellow to see the result.
 ```
 http://localhost/dejan/index/index
 ```
