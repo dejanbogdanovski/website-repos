@@ -1,8 +1,8 @@
 # CarStore Project
 
-*This is a website project that has certain goal.*
+*This is website project about a eShop. This project includes the magento platform for eShops and dockers.
 
-These are the basic things that you need to do:
+To be able to see the result of this project you need to do the following basic steps:
 - Download Docker from the [official website](https://www.docker.com) and after that install the docker.
 - Download the docker-compose.yml file and code folder from this github repository.
 
