@@ -38,7 +38,7 @@ bin/magento module:enable Dejan_NovModul
 bin/magento setup:upgrade
 bin/magento setup:di:compile
 ```
-8.After the completion of the steps above, open the link bellow to see the result.
+8.After the completion of the steps above, open the link bellow in your browser to see the result.
 ```
 http://localhost/dejan/index/index
 ```
