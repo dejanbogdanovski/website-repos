@@ -1,6 +1,6 @@
 # CarStore Project
 
-*This is website project that is created in Magento eComerece platform and Docker.*
+*This is website project that is created in Magento eCommerce platform and Docker.*
 
 To be able to see the result of this project you need to do the following basic steps:
 - Download and install the **Docker.** You can download the Docker from the [official website](https://www.docker.com).
@@ -32,13 +32,13 @@ cd /opt/bitnami/magento/htdocs/
 unlink ./app/etc
 cp -r /bitnami/magento/htdocs/app/etc app/etc
 ```
-7.Enable the module
+7.Enable the module:
 ```
 bin/magento module:enable Dejan_NovModul
 bin/magento setup:upgrade
 bin/magento setup:di:compile
 ```
-8.After the completion of the steps above, open the link bellow in your browser to see the result.
+8.After the completion of the steps above, open the link below in your browser to see the result.
 ```
 http://localhost/dejan/index/index
 ```
