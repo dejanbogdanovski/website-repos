@@ -1,6 +1,6 @@
 # CarStore Project
 
-*This is website project about a eShop. This project includes the Magento eComerece platform and docker.*
+*This is website project that is created in Magento eComerece platform and Docker.*
 
 To be able to see the result of this project you need to do the following basic steps:
 - Download Docker from the [official website](https://www.docker.com) and after that install the docker.
@@ -36,11 +36,6 @@ bin/magento setup:upgrade
 bin/magento setup:di:compile
 ```
 7.Open [this link](http://localhost/dejan/index/index/) to view the result.
-
-In the words of Abraham Lincoln:
-
-> Pardon my French
-> Pardon my French
 
 ###### Click [here](https://magento.com) for more info about **Magento eComerece platform.**
 ###### Click [here](https://www.docker.com/) for more info about **Docker.**
