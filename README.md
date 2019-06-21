@@ -3,7 +3,6 @@
 *This is website project that is created in Magento eComerece platform and Docker.*
 
 To be able to see the result of this project you need to do the following basic steps:
-- Download Docker from the [official website](https://www.docker.com) and after that install the docker.
 - Download and instal the Docker. You can download the Docker from the [official website](https://www.docker.com).
 - Download the docker-compose.yml file and code folder from this github repository.
 
