@@ -35,7 +35,7 @@ bin/magento module:enable Dejan_NovModul
 bin/magento setup:upgrade
 bin/magento setup:di:compile
 ```
-7.**Open [this link](http://localhost/dejan/index/index/) to view the result.**
+7.Open [this link](http://localhost/dejan/index/index/) to view the result.
 
 
 ###### Click [here](https://magento.com) for more info about **Magento eComerece platform.**
