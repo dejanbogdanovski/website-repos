@@ -42,6 +42,6 @@ bin/magento setup:di:compile
 ```
 http://localhost/dejan/index/index
 ```
-###### Click [here](https://magento.com) for more info about **Magento eComerece platform.**
+###### Click [here](https://magento.com) for more info about **Magento eCommerce platform.**
 ###### Click [here](https://www.docker.com/) for more info about **Docker.**
 
