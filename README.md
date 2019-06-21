@@ -11,13 +11,14 @@ To be able to see the result of this project you need to do the following basic 
 ```
 docker-compose up -d
 ```
-2.Place the code folder in your container with this command: 
+2.Get the name of container:
+```
+docker ps
+```
+3.Place the code folder in your container with this command: 
 ```
 docker cp code <container name bitnami>:/opt/bitnami/magento/htdocs/app
 ```
-3.Get the name of container:
-```
-docker ps
 ```
 4.This command will enable you to execute commands inside the container.
 ```
