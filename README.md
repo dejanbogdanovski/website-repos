@@ -38,5 +38,6 @@ bin/magento setup:di:compile
 7.**Open [this link](http://localhost/dejan/index/index/) to view the result.**
 
 Click [here](https://magento.com) for more info about Magento eComerece platform.
+
 Click [here](https://www.docker.com/) for more info about Docker.
 
