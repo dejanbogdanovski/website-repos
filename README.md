@@ -35,8 +35,10 @@ bin/magento module:enable Dejan_NovModul
 bin/magento setup:upgrade
 bin/magento setup:di:compile
 ```
-7.After the completion of the steps above, open [this link](http://localhost/dejan/index/index/) to view the result.
-
+7.After the completion of the steps above, open the link bellow to see the result.
+```
+http://localhost/dejan/index/index
+```
 ###### Click [here](https://magento.com) for more info about **Magento eComerece platform.**
 ###### Click [here](https://www.docker.com/) for more info about **Docker.**
 
