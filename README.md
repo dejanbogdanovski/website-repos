@@ -3,8 +3,8 @@
 *This is website project that is created in Magento eComerece platform and Docker.*
 
 To be able to see the result of this project you need to do the following basic steps:
-- Download and install the Docker. You can download the Docker from the [official website](https://www.docker.com).
-- Download the docker-compose.yml file and code folder from this github repository.
+- Download and install the **Docker.** You can download the Docker from the [official website](https://www.docker.com).
+- Download the **docker-compose.yml** file and **code** folder from this github repository.
 
 ## How to setup: 
 1.Create a folder and place the docker-compose.yml file in that folder. Open Command Prompt and go inside the folder with the docker-compose.yml file, then run the command bellow. After that open localhost on your web browser and wait for the installation of Magento, if the installation is completed successfully, Magento luma home page will appear.:
