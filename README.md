@@ -19,7 +19,6 @@ docker ps
 ```
 docker cp code <container name bitnami>:/opt/bitnami/magento/htdocs/app
 ```
-```
 4.This command will enable you to execute commands inside the container.
 ```
 docker exec -it <container name bitnami> bas
