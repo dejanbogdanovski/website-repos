@@ -39,6 +39,5 @@ bin/magento setup:di:compile
 
 
 ###### Click [here](https://magento.com) for more info about **Magento eComerece platform.**
-
-Click [here](https://www.docker.com/) for more info about **Docker.**
+###### Click [here](https://www.docker.com/) for more info about **Docker.**
 
